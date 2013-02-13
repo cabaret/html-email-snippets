@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<td valign="${1:top}" align="${2:left}" ${3:width="$4"}>$5</td>$6]]></content>
+    <tabTrigger>mltd</tabTrigger>
+    <!-- <scope>source.html</scope> -->
+    <description>Mailings: TD</description>
+</snippet>
