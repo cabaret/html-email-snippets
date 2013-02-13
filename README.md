@@ -7,6 +7,9 @@ Snippets to help create HTML emails quicker.
 Install to `~/Library/Application Support/Sublime Text 2/Packages/User`
 
 
+This gives you access to a couple of tab triggers: `mlreset`, `mltable`, `mltd`, `mlimg`.
+
+
 `mlreset` will turn into:
 ```
  <style type="text/css">
@@ -25,8 +28,10 @@ Install to `~/Library/Application Support/Sublime Text 2/Packages/User`
 
 `mltable` will turn into `<table cellspacing="0" cellpadding="0" align="left" border="0" width="100%">`
 
-`mltd ` will turn into `<td valign="top" align="left">`
+`mltd ` will turn into `<td valign="top" align="left" width="">`
 
 `mlimg` will turn into `<img src="" alt="" style="display: block; outline; none; border: none;" />`
 
 Tabstops have been implemented where needed.
+
+Suggestions welcome.
