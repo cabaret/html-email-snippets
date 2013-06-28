@@ -32,6 +32,8 @@ This gives you access to a couple of tab triggers: `mlreset`, `mltable`, `mltd`,
 
 `mlimg` will turn into `<img src="" alt="" style="display: block; outline; none; border: none;" />`
 
+`mla` will turn into `<a href="" title="" style="display: block; text-decoration: none; outline: none; border: none;"></a>`
+
 Tabstops have been implemented where needed.
 
 Suggestions welcome.
