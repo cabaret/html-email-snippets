@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[<img src="$1" alt="$2" style="display: block; outline; none; border: none;" />$3]]></content>
+    <content><![CDATA[<img src="$1" alt="$2" style="display: block; outline: none; border: none;" />$3]]></content>
     <tabTrigger>mlimg</tabTrigger>
     <!-- <scope>source.html</scope> -->
     <description>Mailings: Image</description>

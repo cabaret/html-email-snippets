@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<a href="$1" title="$2" style="display: block; text-decoration: ${4:none}; outline: none; border: none;">$5</a>$6]]></content>
+    <tabTrigger>mla</tabTrigger>
+    <!-- <scope>source.html</scope> -->
+    <description>Mailings: Link</description>
+</snippet>
