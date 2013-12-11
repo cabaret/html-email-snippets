@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[<table cellspacing="0" cellpadding="0" align="left" border="0" width="${1:100%}">$2</table>$3]]></content>
+    <content><![CDATA[<table cellspacing="0" cellpadding="0" align="left" border="0" width="${1:100%}" ${2:bgcolor="${3:#ffffff}}">$4</table>$5]]></content>
     <tabTrigger>mltable</tabTrigger>
     <!-- <scope>source.html</scope> -->
     <description>Mailings: Table</description>
